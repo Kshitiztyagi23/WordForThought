@@ -18,7 +18,8 @@ Each audio contains various features.
 <br>![Screenshot (207)](https://github.com/user-attachments/assets/3bfa5a2e-6c69-453a-a587-86512293c50f)
 
 
-1. **Time domain features**: These features are extracted directly from the waveform of the audio signal.
+### 1. Time domain features: 
+**These features are extracted directly from the waveform of the audio signal.**
 
    <br>__(a) *Zero-Crossing Rate*__: Zero Crossing Rate is the rate at which the signal changes from positive to negative or vice versa. It provides information about the frequency content of the signal.
    <br>![Screenshot (205)](https://github.com/user-attachments/assets/bbb90ed4-8126-4c97-bf40-9b41d47f3c9b)
@@ -26,12 +27,14 @@ Each audio contains various features.
    <br>__(b) *Root Mean Square Energy*__: RMS Energy is a measure of the signal’s overall energy or loudness over time. It provides insight into the amplitude variations of the audio signal.
    <br>![Screenshot (206)](https://github.com/user-attachments/assets/d17c0ab2-f147-4a61-8bfd-ed805b08c2e1)
 
-3. **Time-frequency domain features**: These features represent both time and frequency characteristics of the audio.
+### 2. Time-frequency domain features: 
+**These features represent both time and frequency characteristics of the audio.**
 
    <br>__*MFCCs*__: Mel-frequency Cepstral Coefficients (MFCCs) provide a compact representation of the spectral envelope of a sound that closely relates to how humans perceive pitch and frequency content.
    <br>![Screenshot (210)](https://github.com/user-attachments/assets/1cfc62dd-504a-472a-a2a4-67766d1c3867)
 
-5. **Mel-Spectrograms**: A mel spectrogram shows how the frequency content of the signal changes over time.
+### 3. Mel-Spectrograms: 
+**A mel spectrogram shows how the frequency content of the signal changes over time.**
    <br>![Screenshot (208)](https://github.com/user-attachments/assets/358b1425-f02a-48cb-bd42-c636741a8fb8)
 
 
